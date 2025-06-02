@@ -2,7 +2,7 @@
 
 This work is based on the prior work on SVF. \
 Get street view code is based on Shengao Yi's work https://github.com/ShengaoYi/Google-StreetView-Downloader and  robolyst's work https://github.com/robolyst/streetview. \
-The segment code is based on Ito's work https://github.com/koito19960406/ZenSVI.\
+The segment code is based on Ito's work https://github.com/koito19960406/ZenSVI. \
 The segment method is developed by Meta on https://github.com/facebookresearch/Mask2Former. \
 The fisheye transfer method is developed by Xiaojiang Li's paper https://doi.org/10.1007/978-3-319-57336-6_24.  
 
